@@ -1,4 +1,4 @@
-# Import the sleep function from the time module, so
+""" # Import the sleep function from the time module, so
 # that the sleep function can be used in this program.
 from time import sleep
 
@@ -13,3 +13,10 @@ for i in range(3, 0, -1):
 # Use a Python f-string to format a greeting
 # for the user and then print the greeting.
 print(f"Welcome to CSE 210, {name}!")
+from colored import fg
+color = fg('blue')
+print (color + 'Hello World !!!') """
+import random
+xplayer =  '\033[32m' # Green Text
+print (xplayer + "This is some green text!")
+print(random.randrange(1, 7))
