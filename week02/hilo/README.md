@@ -1,4 +1,4 @@
-# Dice
+# Hilo
 As a casino, can you bet the house? There is only way to know! Play hilo cards!
 
 ## Getting Started
